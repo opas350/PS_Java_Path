@@ -13,6 +13,22 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" timestamp="1480041588362">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="27" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1480041681816">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480041827264">
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="81" />
+        <mark key="." line="21" column="81" />
+        <mark key="^" line="21" column="81" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/1_Creating_A_Simple_App/demo1_Creating_Your_First_IntelliJ_Project/src/Main.java" timestamp="1479959519012">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -38,43 +54,60 @@
       <jump line="29" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo2_CalcEngine/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="21" column="23" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoKG9wQ29kZXNbaV0pIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZXN1bHQgPSAiICsgcmVzdWx0KTsK</text>
+      <register name="2" type="4">
+        <text>{
+                case 'a':
+                    results[i] = leftVals[i] + rightVals[i];
+                    break;
+                case 's':
+                    results[i] = leftVals[i] - rightVals[i];
+                    break;
+                case 'd':
+                    results[i] = rightVals[i] != 0.0d ? leftVals[i] / rightVals[i] : 0.0d;
+                    break;
+                case 'm':
+                    results[i] = leftVals[i] * rightVals[i];
+                    break;
+                default:
+                    System.out.println(&quot;Error - invalid opCode&quot;);
+                    results[i] = 0;
+            }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgKiB2YWwyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZXN1bHQgPSAiICsgcmVzdWx0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDIgIT0gMCA/IHZhbDEgLyB2YWwyIDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgLSB2YWwyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgKiB2YWwyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHNbaV0gPSB2YWwyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDIgIT0gMCA/IHZhbDEgLyB2YWwyIDogMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVzdWx0ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgLSB2YWwyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHNbaV0gPSB2YWwyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
@@ -94,6 +127,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
