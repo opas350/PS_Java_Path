@@ -13,12 +13,12 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480231379395">
-        <mark key="'" line="48" column="14" />
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="50" column="76" />
-        <mark key="^" line="50" column="76" />
-        <mark key="." line="50" column="76" />
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestCategory.java" timestamp="1480229194809">
         <mark key="[" line="3" column="35" />
@@ -32,6 +32,12 @@
       </file>
       <file name="/a.dummy" timestamp="1480041681816">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480279249459">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="32" column="70" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480129274703">
         <mark key="[" line="32" column="42" />
@@ -49,6 +55,12 @@
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="7" column="0" />
@@ -61,6 +73,12 @@
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/HelloJUnitJava.java" timestamp="1480229482416">
         <mark key="[" line="9" column="1" />
@@ -127,13 +145,17 @@
       <jump line="50" column="54" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
       <jump line="4" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
       <jump line="47" column="14" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="61" column="34" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0Lm1hdGNoZXJzLkpVbml0TWF0Y2hlcnMuKjsK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -142,31 +164,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0Lm1hdGNoZXJzLkpVbml0TWF0Y2hlcnMuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKjsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZQogICAgICAgICAgICAgICAg</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -187,6 +209,7 @@
         <entry>s</entry>
         <entry>q</entry>
         <entry>?NewTrackingService</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -207,6 +230,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
