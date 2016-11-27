@@ -39,7 +39,13 @@
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/1_JUnit_Overview/demo1_setup/src/com/opas350/JUnitTest/Setup/Main.java" timestamp="1480108833664" />
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480205657091">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480057864537">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="13" column="45" />
@@ -87,6 +93,7 @@
       <jump line="21" column="23" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="22" column="12" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
