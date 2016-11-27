@@ -3,25 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1480023364108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="60" />
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="55" />
-        <mark key="]" line="60" column="7" />
-        <mark key="^" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestCategory.java" timestamp="1480229194809">
-        <mark key="[" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" timestamp="1480041588362">
         <mark key="'" line="22" column="12" />
@@ -33,52 +20,16 @@
       <file name="/a.dummy" timestamp="1480041681816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480279249459">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="70" />
-        <mark key="." line="32" column="70" />
-        <mark key="^" line="32" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480129274703">
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="44" />
-        <mark key="^" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/1_JUnit_Overview/demo1_setup/src/com/opas350/JUnitTest/Setup/HistoryItem.java" timestamp="1480108853527">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480057760184">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480057864537">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/HelloJUnitJava.java" timestamp="1480229482416">
         <mark key="[" line="9" column="1" />
@@ -99,12 +50,6 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestSuite.java" timestamp="1480229798589">
         <mark key="[" line="10" column="51" />
       </file>
@@ -113,6 +58,61 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480023364108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestCategory.java" timestamp="1480229194809">
+        <mark key="[" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480279249459">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="32" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480129274703">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/1_JUnit_Overview/demo1_setup/src/com/opas350/JUnitTest/Setup/HistoryItem.java" timestamp="1480108853527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo2_CalcEngine/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480029319590">
         <mark key="'" line="30" column="0" />
