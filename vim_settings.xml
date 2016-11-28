@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
@@ -242,6 +242,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
