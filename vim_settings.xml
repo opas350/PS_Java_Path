@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
@@ -95,6 +95,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480397995726">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="7" column="0" />
@@ -158,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -170,31 +176,31 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0Lm1hdGNoZXJzLkpVbml0TWF0Y2hlcnMuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZQogICAgICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQuZAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
