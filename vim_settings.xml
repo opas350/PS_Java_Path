@@ -114,6 +114,12 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480402087207">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="26" column="34" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="6" column="3" />
@@ -163,11 +169,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
