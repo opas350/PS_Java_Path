@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1480023364108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="60" />
@@ -13,11 +10,121 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" timestamp="1480041588362">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="27" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1480041681816">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480057760184">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480057864537">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/HelloJUnitJava.java" timestamp="1480229482416">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ParameterizedTests.java" timestamp="1480231135836">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/4_InegratingJunit/Demo1_ConsoleRunner/TestClasses/ConsoleRunner.java" timestamp="1480280878170">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestSuite.java" timestamp="1480229798589">
+        <mark key="[" line="10" column="51" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/1_Creating_A_Simple_App/demo1_Creating_Your_First_IntelliJ_Project/src/Main.java" timestamp="1479959519012">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1480023364108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/GoodTestCategory.java" timestamp="1480229194809">
+        <mark key="[" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480279249459">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="32" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/TrackingService.java" timestamp="1480129274703">
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/1_JUnit_Overview/demo1_setup/src/com/opas350/JUnitTest/Setup/HistoryItem.java" timestamp="1480108853527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480397995726">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480402087207">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo2_CalcEngine/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480029319590">
         <mark key="'" line="30" column="0" />
@@ -26,11 +133,20 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/TestClasses/TrackingServiceTest.java" timestamp="1480129685345">
+        <mark key="[" line="59" column="33" />
+        <mark key="]" line="59" column="36" />
+        <mark key="^" line="59" column="36" />
+        <mark key="." line="59" column="36" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo1_NestedIfs/src/com/opas350/ps/nestedIfs/Main.java" timestamp="1480023116007">
         <mark key="[" line="10" column="51" />
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="8" />
+      </file>
+      <file name="/fragment.java" timestamp="1480290939838">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -38,54 +154,80 @@
       <jump line="29" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo2_CalcEngine/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="21" column="23" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ParameterizedTests.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ParameterizedTests.java" />
+      <jump line="50" column="54" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="47" column="14" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="77" column="4" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="61" column="34" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="-" type="4">
+        <text>o</text>
+      </register>
+      <register name="/" type="4">
+        <text>NewTrackingService</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0Lm1hdGNoZXJzLkpVbml0TWF0Y2hlcnMuKjsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZXN1bHQgPSAiICsgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgKiB2YWwyOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDIgIT0gMCA/IHZhbDEgLyB2YWwyIDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IHZhbDEgLSB2YWwyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHNbaV0gPSB2YWwyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVzdWx0ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>{</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>NewTrackingService</last-search>
+      <last-offset />
+      <last-pattern>NewTrackingService</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>NewTrackingService</entry>
+      </history-search>
       <history-cmd>
         <entry>s</entry>
         <entry>q</entry>
+        <entry>?NewTrackingService</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -94,6 +236,27 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
