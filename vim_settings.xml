@@ -20,6 +20,18 @@
       <file name="/a.dummy" timestamp="1480041681816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/CalculateBase.java" timestamp="1480463893373">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/Adder.java" timestamp="1480463824886">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480057864537">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="13" column="45" />
@@ -31,6 +43,12 @@
         <mark key="]" line="45" column="29" />
         <mark key="^" line="45" column="29" />
         <mark key="." line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/Subtracter.java" timestamp="1480464024808">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/HelloJUnitJava.java" timestamp="1480229482416">
         <mark key="[" line="9" column="1" />
@@ -97,6 +115,18 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480464545377">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="47" column="68" />
+        <mark key="." line="36" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Divider.java" timestamp="1480464201976">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -127,6 +157,12 @@
         <mark key="]" line="26" column="34" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Multiplier.java" timestamp="1480464288825">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
         <mark key="[" line="5" column="53" />
@@ -184,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -196,31 +232,31 @@
         <text encoding="base64">IHB1YmxpYyB2b2lkIGV4ZWN1dGUoZG91YmxlIGxlZnRWYWwsIGRvdWJsZSByaWdodFZhbCkgewogICAgICAgIHRoaXMubGVmdFZhbCA9IGxlZnRWYWw7CiAgICAgICAgdGhpcy5yaWdodFZhbCA9IHJpZ2h0VmFsOwoKICAgICAgICBleGVjdXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWF0aEVxdWF0aW9uIGNyZWF0ZShkb3VibGUgbGVmdFZhbCwgZG91YmxlIHJpZ2h0VmFsLCBjaGFyIG9wQ29kZSkgewovLyAgICAgICAgTWF0aEVxdWF0aW9uIGVxdWF0aW9uID0gbmV3IE1hdGhFcXVhdGlvbigpOwovLyAgICAgICAgZXF1YXRpb24uc2V0TGVmdFZhbChsZWZ0VmFsKTsKLy8gICAgICAgIGVxdWF0aW9uLnNldFJpZ2h0VmFsKHJpZ2h0VmFsKTsKLy8gICAgICAgIGVxdWF0aW9uLnNldE9wQ29kZShvcENvZGUpOwovLwovLyAgICAgICAgcmV0dXJuIGVxdWF0aW9uOwovLyA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRvdWJsZVtdIHJlc3VsdHMgPSBuZXcgZG91YmxlW29wQ29kZXMubGVuZ3RoXTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgIGNoYXJbXSBvcENvZGVzID0geydkJywgJ2QnLCAncycsICdtJ307Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRvdWJsZVtdIHJpZ2h0VmFscyA9IHs1MC4wZCwgOTIuMGQsIDE3LjBkLCAzLjBkfTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvdWJsZVtdIGxlZnRWYWxzID0gezEwMC4wZCwgMjUuMGQsIDIyNS4wZCwgMTEuMGR9Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRvdWJsZVtdIGxlZnRWYWxzID0gezEwMC4wZCwgMjUuMGQsIDIyNS4wZCwgMTEuMGR9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -271,6 +307,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
