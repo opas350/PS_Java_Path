@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
@@ -29,6 +29,7 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/CalcEngine/CalculateHelper.java" timestamp="1481236956977" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/Adder.java" timestamp="1480463824886">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="14" column="22" />
@@ -97,6 +98,12 @@
         <mark key="." line="83" column="21" />
         <mark key="^" line="83" column="21" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/CalcEngine/PowerOf.java" timestamp="1481237613885">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="19" column="40" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="55" />
@@ -134,6 +141,12 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/CalcEngine/DynamicHelper.java" timestamp="1481236997412">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="37" column="18" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/4_ClassInitializers_Constructors/Demo1_CalcEngine_FieldInitializers/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480404461447">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -163,6 +176,13 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/MyApp/Main.java" timestamp="1481237580415">
+        <mark key="'" line="17" column="28" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
         <mark key="'" line="10" column="0" />
@@ -245,13 +265,14 @@
       <jump line="39" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/7_More_About_Data_Types/Demo1_CalcEngine_More_DataTypes/src/com/opas350/ps/CalcEngine/CalculateHelper.java" />
       <jump line="59" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/7_More_About_Data_Types/Demo1_CalcEngine_More_DataTypes/src/com/opas350/ps/CalcEngine/CalculateHelper.java" />
       <jump line="11" column="3" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/7_More_About_Data_Types/Demo1_CalcEngine_More_DataTypes/src/com/opas350/ps/CalcEngine/CalculateHelper.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/MyApp/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stament</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>stament</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -262,31 +283,31 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCiAgICAgICAgICAgICAgICAiYWRkIDI1LjAgOTIuMCIsICAgICAgICAgICAgLy8gMjUuMCArIDkyLjAgPSAxMTcuMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCiAgICAgICAgICAgICAgICAiYWRkIDI1LjAgOTIuMCIsICAgICAgICAgICAgLy8gMjUuMCArIDkyLjAgPSAxMTcuMAogICAgICAgICAgICAgICAgImFkZCAyNS4wIDkyLjAiLCAgICAgICAgICAgIC8vIDI1LjAgKyA5Mi4wID0gMTE3LjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgImFkZCAyNS4wIDkyLjAiLCAgICAgICAgICAgIC8vIDI1LjAgKyA5Mi4wID0gMTE3LjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCiAgICAgICAgICAgICAgICAiYWRkIDI1LjAgOTIuMCIsICAgICAgICAgICAgLy8gMjUuMCArIDkyLjAgPSAxMTcuMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCiAgICAgICAgICAgICAgICAiYWRkIDI1LjAgOTIuMCIsICAgICAgICAgICAgLy8gMjUuMCArIDkyLjAgPSAxMTcuMAogICAgICAgICAgICAgICAgImFkZCAyNS4wIDkyLjAiLCAgICAgICAgICAgIC8vIDI1LjAgKyA5Mi4wID0gMTE3LjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXZpZGUgMTAwLjAgNTAuMDAiLCAgICAgICAvLyAxMDAuMCAvIDUwLjAgPSAyLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgImFkZCAyNS4wIDkyLjAiLCAgICAgICAgICAgIC8vIDI1LjAgKyA5Mi4wID0gMTE3LjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGQgMjUuMCA5Mi4wIiwgICAgICAgICAgICAvLyAyNS4wICsgOTIuMCA9IDExNy4wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXZpZGUgMTAwLjAgNTAuMDAiLCAgICAgICAvLyAxMDAuMCAvIDUwLjAgPSAyLjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gKFN0cmluZykgc2I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
