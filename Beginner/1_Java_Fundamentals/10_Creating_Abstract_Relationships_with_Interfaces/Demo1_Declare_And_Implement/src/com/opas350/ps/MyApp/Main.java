@@ -4,7 +4,32 @@ import com.opas350.ps.CalcEngine.*;
 
 public class Main {
 
+
     public static void main(String[] args) {
+
+        String[] statements = {
+                "add 25.0 92.0",    // 25.0+92.0 = 117.0
+                "power 5.0 2.0",    // 5.0 ^ 2.0 = 25.0
+
+        };
+
+        DynamicHelper helper = new DynamicHelper(new MathProcessing[] {
+                new Adder(),
+                new PowerOf()
+        });
+        for(String statement : statements) {
+
+            String output = helper.process(statement);
+            System.out.println(output);
+
+        }
+    }
+
+
+
+
+
+    public void useCalculateHelper(String[] args) {
 
         String[] statements = {
 
@@ -16,6 +41,7 @@ public class Main {
                 "subtract 225.0 17.0",      // 225.0 - 17.0 = 108.0
                 "multiply 11.0 3.0"         // 11.0 * 3.0 = 33.0
         };
+
 
         CalculateHelper helper = new CalculateHelper();
         for (String statement : statements) {
