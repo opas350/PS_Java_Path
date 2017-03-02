@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-data/src/test/java/com/martinez/test/repository/BookRepositoryTest.java" timestamp="1488449245167" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" timestamp="1480041588362">
         <mark key="'" line="22" column="12" />
         <mark key="[" line="27" column="23" />
@@ -22,12 +23,14 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-service/src/test/java/com/martinez/test/config/ServiceContextTest.java" timestamp="1488448599315" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/CalculateBase.java" timestamp="1480463893373">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="26" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/data-model/src/main/java/com/martinez/entities/Book.java" timestamp="1488447407690" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/Adder.java" timestamp="1480463824886">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="14" column="22" />
@@ -154,7 +157,6 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/3_JavaFundamentals_Collections/2_DefiningAndIteratingCollections/src/main/java/com/monotonic/collections/Supplier.java" timestamp="1481594077927" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/8_Exception_And_Error_Handling/Demo1_CalcEngine_Exceptions/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480474170655">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="38" />
@@ -173,7 +175,6 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/3_JavaFundamentals_Collections/4_CollectionWithUniqueness_Sets/src/main/java/com/monotonic/collections/Product.java" timestamp="1481621383046" />
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/1_Creating_A_Simple_App/demo1_Creating_Your_First_IntelliJ_Project/src/Main.java" timestamp="1479959519012">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
