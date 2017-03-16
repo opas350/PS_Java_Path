@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/MatchEquation.java" timestamp="1480041588362">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="29" column="4" />
-        <mark key="." line="27" column="23" />
-      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/5_ControllingAppExecution/Demo2_PropertiesFromResource/src/com/company/MyDefaultValues.xml" timestamp="1481359191411">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -58,12 +51,10 @@
         <mark key="." line="9" column="1" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ParameterizedTests.java" timestamp="1480231135836">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="49" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="48" />
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/runnable/model/FirstRunnable.java" timestamp="1489647949626">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/4_InegratingJunit/Demo1_ConsoleRunner/TestClasses/ConsoleRunner.java" timestamp="1480280878170">
         <mark key="[" line="13" column="8" />
@@ -118,13 +109,6 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/2_InputOutput_with_StreamsAndFiles/Demo2_CreatingZipFileSystem/src/com/jwhh/Main.java" timestamp="1481274911878">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="70" />
-        <mark key="]" line="74" column="70" />
-        <mark key="^" line="74" column="70" />
-        <mark key="." line="74" column="70" />
-      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="50" />
@@ -151,13 +135,6 @@
         <mark key="]" line="34" column="71" />
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo3_CalcEngine_Arrays_Loop_Switch/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480031117464">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="60" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-web/src/main/java/com/martinez/web/config/SpringWebContext.java" timestamp="1488475513819">
         <mark key="[" line="21" column="12" />
@@ -189,13 +166,6 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/7_More_About_Data_Types/Demo1_CalcEngine_More_DataTypes/src/com/opas350/ps/CalcEngine/CalculateHelper.java" timestamp="1480469462353">
-        <mark key="'" line="11" column="3" />
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-      </file>
       <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-web/pom.xml" timestamp="1488475055098">
         <mark key="[" line="97" column="4" />
         <mark key="]" line="97" column="5" />
@@ -216,18 +186,18 @@
       <file name="/Dummy.txt" timestamp="1489645853284">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/waitnotify/ProducerConsumer.java" timestamp="1489649795584">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/CalcEngine/PowerOf.java" timestamp="1481237613885">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="19" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTest.java" timestamp="1480280124310">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="55" />
-        <mark key="]" line="60" column="7" />
-        <mark key="^" line="60" column="7" />
-        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/7_More_About_Data_Types/Demo1_CalcEngine_More_DataTypes/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480468976539">
         <mark key="[" line="17" column="9" />
@@ -259,25 +229,11 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/MyApp/Main.java" timestamp="1481237580415">
-        <mark key="'" line="17" column="28" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-      </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/RaceCondition.java" timestamp="1489638577278">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="26" column="8" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/model/A.java" timestamp="1489639053913">
         <mark key="[" line="5" column="16" />
@@ -290,13 +246,6 @@
         <mark key="]" line="16" column="22" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/2_Conditional_Logic_And_Loopin/Demo2_CalcEngine/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480029319590">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/TestClasses/TrackingServiceTest.java" timestamp="1480129685345">
         <mark key="[" line="59" column="33" />
@@ -319,25 +268,20 @@
       <file name="/fragment.java" timestamp="1481357679367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/2_InputOutput_with_StreamsAndFiles/Demo1_WorkingWithTryWithResources/src/com/jwhh/Main.java" timestamp="1481268923327">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="75" column="67" />
-        <mark key="^" line="75" column="67" />
-        <mark key="." line="75" column="67" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="55" column="77" filename="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/2_InputOutput_with_StreamsAndFiles/Demo2_CreatingZipFileSystem/src/com/jwhh/Main.java" />
       <jump line="12" column="26" filename="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/2_InputOutput_with_StreamsAndFiles/Demo2_CreatingZipFileSystem/src/com/jwhh/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/2_InputOutput_with_StreamsAndFiles/Demo2_CreatingZipFileSystem/src/com/jwhh/Main.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/waitnotify/ProducerConsumer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/waitnotify/ProducerConsumer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2hpbGUg</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">d2hpbGUg</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -346,31 +290,31 @@
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gbCArIDE7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyB3YWl0bm90aWZ5LlByb2R1Y2VyQ29uc3VtZXIuUHJvZHVjZXIuQ29uc3VtZXIuaXNGdWxsOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0LmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBsID0gbCArIDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdCA9IG5ldyBUaHJlYWQocik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0LmpvaW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWJtdmM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3ByaW5nX3ZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdCA9IG5ldyBUaHJlYWQocik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidXNlciBwcm9wcyBzYXZlZCIpOwo=</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
