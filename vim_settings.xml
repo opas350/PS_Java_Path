@@ -107,6 +107,11 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/model/LongWrapper.java" timestamp="1489638782297">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/TrackingServiceTheories.java" timestamp="1480280537638">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -196,6 +201,12 @@
         <mark key="]" line="97" column="5" />
         <mark key="." line="97" column="5" />
       </file>
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/RunningA.java" timestamp="1489639289289">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-web/src/main/java/com/martinez/web/config/SpringWebContext.java" timestamp="1488478916592">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="9" />
@@ -252,12 +263,24 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/RaceCondition.java" timestamp="1489638577278">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/ProteinTrackerSuite.java" timestamp="1480229564489">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="2" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/model/A.java" timestamp="1489639053913">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="26" column="89" />
+        <mark key="^" line="26" column="89" />
+        <mark key="." line="26" column="89" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Multiplier.java" timestamp="1480464288825">
         <mark key="[" line="11" column="5" />
@@ -308,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -320,31 +343,31 @@
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWJtdmM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3ByaW5nX3ZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidXNlciBwcm9wcyBzYXZlZCIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIi0tLSIpOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGZvcihpbnQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKykKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnVmZltpXSk7CiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsID0gbCArIDE7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0LmpvaW4oKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdCA9IG5ldyBUaHJlYWQocik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy13ZWJtdmM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3ByaW5nX3ZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFkZXIgcmVhZGVyID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidXNlciBwcm9wcyBzYXZlZCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
