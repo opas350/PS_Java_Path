@@ -142,11 +142,11 @@
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/dasboot/pom.xml" timestamp="1480584972900">
         <mark key="[" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/java/com/opas350/SimpleServlet.java" timestamp="1489992092782">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/java/com/opas350/SimpleServlet.java" timestamp="1489993323286">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
         <mark key="[" line="5" column="53" />
@@ -159,6 +159,12 @@
         <mark key="]" line="34" column="71" />
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/webapp/WEB-INF/web.xml" timestamp="1489993749221">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/runnable/RaceCondition.java" timestamp="1489874080465">
         <mark key="[" line="17" column="16" />
