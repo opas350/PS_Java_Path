@@ -142,11 +142,11 @@
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/dasboot/pom.xml" timestamp="1480584972900">
         <mark key="[" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/java/com/opas350/SimpleServlet.java" timestamp="1489993323286">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/java/com/opas350/SimpleServlet.java" timestamp="1489995030062">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/2_Junit_Basics/Demo1_Creating_A_SimpleTest/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480129309211">
         <mark key="[" line="5" column="53" />
@@ -160,11 +160,11 @@
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/webapp/WEB-INF/web.xml" timestamp="1489993749221">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
+      <file name="$USER_HOME$/git/PS_JP_JavaWebFundamentals/PS_JP_JavaWebFundamentals/FirstServlet/src/main/webapp/WEB-INF/web.xml" timestamp="1489994915252">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/runnable/RaceCondition.java" timestamp="1489874080465">
         <mark key="[" line="17" column="16" />
@@ -224,7 +224,7 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489980575511">
+      <file name="/Dummy.txt" timestamp="1489994956357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/waitnotify/ProducerConsumer.java" timestamp="1489649795584">
@@ -327,11 +327,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/puzzle/Worker.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -339,32 +339,34 @@
       <register name="0" type="4">
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+ * Created by Javier on 3/20/2017.
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNxbC5yb3dzZXQuc2VyaWFsLlNlcmlhbEV4Y2VwdGlvbjtkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnRvbWNhdDwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD50b21jYXQ4LW1hdmVuLXBsdWc8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnRvbWNhdDwvZ3JvdXBJZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD50b21jYXQ4LW1hdmVuLXBsdWc8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdMb25nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
