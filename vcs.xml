@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/opas350/PS_JP_Multi-threadingtoCommonJavaPatterns.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/opas350/PS_JP_JavaWebFundamentals.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier\git\PS_JP_Multi-Threading" />
+    <option name="cloneParentDir" value="C:\Users\Javier\git\PS_JP_JavaWebFundamentals" />
   </component>
 </application>
