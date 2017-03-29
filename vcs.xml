@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/opas350/PS_JP_JavaWebFundamentals.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/opas350/PS_GettingStartedwithSpringDataJPA.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier\git\PS_JP_JavaWebFundamentals" />
+    <option name="cloneParentDir" value="C:\Users\Javier\git\PS_GettingStartedWithSpringJPA" />
   </component>
 </application>
