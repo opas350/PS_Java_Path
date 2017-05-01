@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/opas350/PS_GettingStartedwithSpringDataJPA.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/opas350/Selenium_First.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier\git\PS_GettingStartedWithSpringJPA" />
+    <option name="cloneParentDir" value="C:\Users\Javier\git\Selenium-Try1" />
   </component>
 </application>
