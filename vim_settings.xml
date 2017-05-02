@@ -234,10 +234,10 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/pom.xml" timestamp="1493667481525">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
+      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/pom.xml" timestamp="1493686533049">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/10_Creating_Abstract_Relationships_with_Interfaces/Demo1_Declare_And_Implement/src/com/opas350/ps/CalcEngine/PowerOf.java" timestamp="1481237613885">
         <mark key="[" line="14" column="16" />
@@ -340,8 +340,8 @@
       <jump line="8" column="13" filename="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -352,34 +352,34 @@
       <register name="0" type="4">
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly8K</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">bXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNlbGVuaXVtaHEuc2VsZW5pdW0vc2VsZW5pdW0tc2VydmVyIC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zZWxlbml1bWhxLnNlbGVuaXVtPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zZWxlbml1bS1zZXJ2ZXI8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjMuMy4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
  * Created by Javier on 3/20/2017.
  */</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnNxbC5yb3dzZXQuc2VyaWFsLlNlcmlhbEV4Y2VwdGlvbjtkZAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPHBsdWdpbj4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnRvbWNhdDwvZ3JvdXBJZD4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD50b21jYXQ4LW1hdmVuLXBsdWc8L2FydGlmYWN0SWQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbDsK</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD50b21jYXQ4LW1hdmVuLXBsdWc8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
