@@ -269,12 +269,12 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" timestamp="1493667812206">
+      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" timestamp="1493693581993">
         <mark key="'" line="8" column="13" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="12" column="126" />
-        <mark key="^" line="12" column="126" />
-        <mark key="." line="12" column="126" />
+        <mark key="[" line="52" column="78" />
+        <mark key="]" line="52" column="83" />
+        <mark key="^" line="52" column="83" />
+        <mark key="." line="52" column="83" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/4_ClassInitializers_Constructors/Demo1_CalcEngine_FieldInitializers/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480404461447">
         <mark key="[" line="30" column="0" />
@@ -347,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
