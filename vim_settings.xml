@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands2.java" timestamp="1493709440897">
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+      </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/Selenium2Example.java" timestamp="1493690012447">
         <mark key="[" line="33" column="65" />
         <mark key="]" line="35" column="21" />
@@ -269,12 +275,12 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" timestamp="1493706463793">
+      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" timestamp="1493709029817">
         <mark key="'" line="8" column="13" />
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="42" column="53" />
-        <mark key="^" line="42" column="53" />
-        <mark key="." line="42" column="53" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/4_ClassInitializers_Constructors/Demo1_CalcEngine_FieldInitializers/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480404461447">
         <mark key="[" line="30" column="0" />
@@ -347,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3VzZXNmdWwg</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3VzZXNmdWwg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
