@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/Selenium2Example.java" timestamp="1493690012447">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/5_ControllingAppExecution/Demo2_PropertiesFromResource/src/com/company/MyDefaultValues.xml" timestamp="1481359191411">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -340,11 +346,11 @@
       <jump line="8" column="13" filename="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
