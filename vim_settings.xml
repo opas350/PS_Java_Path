@@ -35,6 +35,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/testFramework/MyTestWebpage.java" timestamp="1493962426117">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/CalculateBase.java" timestamp="1480463893373">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="26" />
@@ -53,6 +58,12 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/testFramework/TestBase.java" timestamp="1493962116849">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/5_A_Closer_Look_at_Parameters/Demo1_CalcEngine_withMethod_Overloading/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480406513422">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="45" column="29" />
@@ -64,6 +75,12 @@
         <mark key="]" line="12" column="45" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/testFramework/TestWebpage.java" timestamp="1493962334900">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/TestClasses/HelloJUnitJava.java" timestamp="1480229482416">
         <mark key="[" line="9" column="1" />
@@ -117,6 +134,12 @@
         <mark key="^" line="39" column="25" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/testFramework/MyTestWebpage.java" timestamp="1493962232723">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Divider.java" timestamp="1480464201976">
         <mark key="[" line="15" column="52" />
         <mark key="]" line="16" column="22" />
@@ -148,13 +171,6 @@
         <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/puzzle/Worker.java" timestamp="1489980278098">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="39" column="7" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="39" column="7" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480402087207">
         <mark key="[" line="26" column="33" />
@@ -207,6 +223,18 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/testFramework/TestWebpage.java" timestamp="1493962129441">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/testFramework/TestBase.java" timestamp="1493962312885">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/8_Exception_And_Error_Handling/Demo1_CalcEngine_Exceptions/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480474170655">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="38" />
@@ -256,13 +284,6 @@
       <file name="/Dummy.txt" timestamp="1493709622726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/waitnotify/ProducerConsumer.java" timestamp="1489649795584">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-      </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/pom.xml" timestamp="1493691256424">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="20" />
@@ -307,12 +328,10 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands.java" timestamp="1493709029817">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/testFramework/MyTestBase.java" timestamp="1493962433142">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/javier/TestWebpage.java" timestamp="1493958817439">
         <mark key="[" line="14" column="24" />
@@ -343,12 +362,6 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/TestWebpage.java" timestamp="1493957563705">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="26" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/RaceCondition.java" timestamp="1489638577278">
         <mark key="[" line="28" column="0" />
@@ -413,11 +426,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestWebpage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRyaXZlciA9IG5ldyAoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>FirefoxDriver</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
