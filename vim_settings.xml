@@ -64,8 +64,8 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/pom.xml" timestamp="1493964456164">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/pom.xml" timestamp="1493964745778">
+        <mark key="[" line="39" column="59" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
@@ -168,8 +168,8 @@
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestWebpage.java" timestamp="1493958687312">
-        <mark key="[" line="17" column="24" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestWebpage.java" timestamp="1493965539404">
+        <mark key="[" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
         <mark key="[" line="5" column="42" />
@@ -221,6 +221,12 @@
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/HotelSearchResults.java" timestamp="1493966150502">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="69" />
+        <mark key="." line="49" column="69" />
+        <mark key="^" line="49" column="69" />
       </file>
       <file name="$USER_HOME$/Downloads/ALE-app-spring-fundamentals-master/app-spring-fundamentals-master/spring-web/src/main/java/com/martinez/web/config/SpringWebContext.java" timestamp="1488475513819">
         <mark key="[" line="21" column="12" />
@@ -356,17 +362,23 @@
         <mark key="^" line="47" column="68" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestBase.java" timestamp="1493959602402">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="53" />
-        <mark key="^" line="40" column="53" />
-        <mark key="." line="40" column="53" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestBase.java" timestamp="1493965263906">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="43" column="39" />
+        <mark key="^" line="43" column="39" />
+        <mark key="." line="43" column="39" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480397995726">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/browserFactory/BrowserFactory.java" timestamp="1493965140090">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="48" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350.runnable/RaceCondition.java" timestamp="1489638577278">
         <mark key="[" line="28" column="0" />
@@ -432,7 +444,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -444,31 +456,31 @@
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdHMgPSBkcml2ZXIuZmluZEVsZW1lbnRzKEJ5LmNsYXNzTmFtZSgicmVzUm93IikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5zdXJlZmlyZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3VyZWZpcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMTguMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkcml2ZXIucXVpdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRyaXZlciA9IG5ldyAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBhZGQgU3lzdGVtc2V0UHJvcGVydHkgdG8gZHJpdmVyIGxvY2F0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRyaXZlciA9IEJyb3dzZXJGYWN0b3J5LmdldEJyb3dzZXIoIkZpcmVmb3giKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0KGJhc2VVcmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJEcml2ZXJXYWl0IHdhaXQgPSBuZXcgV2ViRHJpdmVyV2FpdChkcml2ZXIsIDUwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
