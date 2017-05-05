@@ -8,6 +8,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/IhgHome.java" timestamp="1493967089772">
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="28" />
+        <mark key="^" line="56" column="28" />
+        <mark key="." line="56" column="28" />
+      </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands2.java" timestamp="1493709440897">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="53" />
@@ -204,8 +210,11 @@
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/README.md" timestamp="1493966346210">
-        <mark key="[" line="3" column="44" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/README.md" timestamp="1493966926808">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestBase.java" timestamp="1493958259725">
         <mark key="[" line="33" column="39" />
@@ -225,9 +234,9 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/HotelSearchResults.java" timestamp="1493966150502">
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="69" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/HotelSearchResults.java" timestamp="1493966522659">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="60" />
         <mark key="." line="49" column="69" />
         <mark key="^" line="49" column="69" />
       </file>
@@ -295,7 +304,7 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493966292550">
+      <file name="/Dummy.txt" timestamp="1493966461744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/pom.xml" timestamp="1493691256424">
@@ -446,44 +455,44 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestWebpage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
+        <text>Page Object corresponding to the Hotel Search Results page</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdHMgPSBkcml2ZXIuZmluZEVsZW1lbnRzKEJ5LmNsYXNzTmFtZSgicmVzUm93IikpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgV2ViRWxlbWVudCBjbGlja0NhcnJvdXNlbEJ1dHRvbigpIHsKICAgICAgICBjYXJyb3VzZWxCdXR0b24uY2xpY2soKTsKICAgICAgICByZXR1cm4gY2Fycm91c2VsQnV0dG9uOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIucXVpdCgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBARmluZEJ5KHhwYXRoID0gIi8vKltAaWQ9J3RpbGUtY2Fycm91c2VsJ10vdWwvYnV0dG9uWzJdIikKICAgIFdlYkVsZW1lbnQgY2Fycm91c2VsQnV0dG9uOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBhZGQgU3lzdGVtc2V0UHJvcGVydHkgdG8gZHJpdmVyIGxvY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdHMgPSBkcml2ZXIuZmluZEVsZW1lbnRzKEJ5LmNsYXNzTmFtZSgicmVzUm93IikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIucXVpdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
