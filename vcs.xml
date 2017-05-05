@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/opas350/Selenium_First.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/opas350/Selenium_exercise.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier\git\Selenium-Try1" />
+    <option name="cloneParentDir" value="C:\Users\Javier\git\IHG" />
   </component>
 </application>
