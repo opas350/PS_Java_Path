@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/javier/TestWebpage3.java" timestamp="1493958896005">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands2.java" timestamp="1493709440897">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="53" />
@@ -14,6 +19,9 @@
         <mark key="]" line="35" column="21" />
         <mark key="^" line="35" column="21" />
         <mark key="." line="35" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1493959076546">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/2_JavaFundamentals_TheCorePlatform/5_ControllingAppExecution/Demo2_PropertiesFromResource/src/com/company/MyDefaultValues.xml" timestamp="1481359191411">
         <mark key="[" line="4" column="18" />
@@ -131,6 +139,9 @@
         <mark key="]" line="64" column="27" />
         <mark key="^" line="64" column="27" />
         <mark key="." line="64" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestWebpage.java" timestamp="1493958687312">
+        <mark key="[" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/git/PluralSight/UnitTestingInJava/3_Advanced_JUnit/Demo1/src/com/opas350/JUnitTest/Test1/InvalidGoalException.java" timestamp="1480279326815">
         <mark key="[" line="5" column="42" />
@@ -269,6 +280,12 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/javier/TestBase.java" timestamp="1493958851125">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/TestBase.java" timestamp="1493957685851">
         <mark key="[" line="33" column="72" />
         <mark key="]" line="34" column="25" />
@@ -297,6 +314,12 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/test/java/com/javier/TestWebpage.java" timestamp="1493958817439">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/4_ClassInitializers_Constructors/Demo1_CalcEngine_FieldInitializers/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480404461447">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -308,6 +331,12 @@
         <mark key="]" line="36" column="39" />
         <mark key="^" line="47" column="68" />
         <mark key="." line="36" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/automationFramework/TestBase.java" timestamp="1493958677835">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo2_CalcEngine_Accessor_Mutators/src/com/opas350/ps/CalcEngine/MathEquation.java" timestamp="1480397995726">
         <mark key="[" line="16" column="64" />
@@ -384,11 +413,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestWebpage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
@@ -397,31 +426,31 @@
         <text encoding="base64">IGNoYXJbXSBidWZmID0gbmV3IGNoYXJbOF07CiAgICAgICAgaW50IGxlbmd0aDsKCiAgICAgICAgdHJ5KFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgd2hpbGUoKGxlbmd0aCA9IHJlYWRlci5yZWFkKGJ1ZmYpKSA+PSAwKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoICIgKyBsZW5ndGgpOwogICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKQogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2goSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIgLSAiICsgZS5nZXRNZXNzYWdlKCkgKTsKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0KGJhc2VVcmwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJEcml2ZXJXYWl0IHdhaXQgPSBuZXcgV2ViRHJpdmVyV2FpdChkcml2ZXIsIDUwKTsK</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0KGJhc2VVcmwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIuYXV0b21hdGlvbkZyYW1ld29yay5UZXN0QmFzZTsK</text>
+        <text encoding="base64">ICAgICAgICBXZWJEcml2ZXJXYWl0IHdhaXQgPSBuZXcgV2ViRHJpdmVyV2FpdChkcml2ZXIsIDUwKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIuYXV0b21hdGlvbkZyYW1ld29yay5UZXN0QmFzZTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qYXZpZXIuYXV0b21hdGlvbkZyYW1ld29yay5UZXN0QmFzZTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cGFja2FnZSBjb20uamF2aWVyLmF1dG9tYXRpb25GcmFtZXdvcms7CgppbXBvcnQgY29tLmphdmllci5hdXRvbWF0aW9uRnJhbWV3b3JrLlRlc3RCYXNlOwppbXBvcnQgY29tLmphdmllci5wYWdlcy5JaGdIb21lOwppbXBvcnQgb3JnLm9wZW5xYS5zZWxlbml1bS5CeTsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uc3VwcG9ydC5QYWdlRmFjdG9yeTsKaW1wb3J0IG9yZy5vcGVucWEuc2VsZW5pdW0uc3VwcG9ydC51aS5FeHBlY3RlZENvbmRpdGlvbnM7CmltcG9ydCBvcmcub3BlbnFhLnNlbGVuaXVtLnN1cHBvcnQudWkuV2ViRHJpdmVyV2FpdDsKaW1wb3J0IG9yZy50ZXN0bmcuQXNzZXJ0OwppbXBvcnQgb3JnLnRlc3RuZy5hbm5vdGF0aW9ucy5UZXN0OwoKLyoqCiAqIENyZWF0ZWQgYnkgamF2aWVyLnJleWVzLnZhbGRleiBvbiA1LzMvMjAxNy4KICovCnB1YmxpYyBjbGFzcyBUZXN0V2VicGFnZSBleHRlbmRzIFRlc3RCYXNlIHsKCiAgICBAVGVzdCAoZW5hYmxlZCA9IGZhbHNlKQogICAgcHVibGljIHZvaWQgdGVzdFBhZ2VPYmplY3QoKSAgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgICAgIGloZ0hvbWUgPSBQYWdlRmFjdG9yeS5pbml0RWxlbWVudHMoZHJpdmVyLCBJaGdIb21lLmNsYXNzKTsKLy8gICAgICAgIHJlZ2lzdGVyUGFnZSA9IFBhZ2VGYWN0b3J5LmluaXRFbGVtZW50cyhkcml2ZXIsIFJlZ2lzdGVyUGFnZS5jbGFzcyk7CiAgICAgICAgZHJpdmVyLmdldChiYXNlVXJsKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjbGlja1JlZ2lzdGVyUGFnZSIpOwogICAgICAgIHJlZ2lzdGVyUGFnZSA9IGloZ0hvbWUuY2xpY2tSZWdpc3RlclBhZ2UoKTsKLy8gICAgICAgIFRocmVhZC5zbGVlcCgzMDAwKTsKICAgICAgICByZWdpc3RlclBhZ2UudmVyaWZ5VGVybXNBbmRDb25kaXRpb25zKCk7CiAgICAgICAgcmVnaXN0ZXJQYWdlLmNsb3NlVGVybXNBbmRDb25kaXRpb25zKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJBZnRlciB2ZXJpdHlUZXJtcyIpOwogICAgICAgIHJlZ2lzdGVyUGFnZS52ZXJpZnlJaGdSZXdhcmRzQ2x1YkJ1dHRvbigpOwovLyAgICAgICAgSm9pbkloZ1Jld2FyZHMgPSBSZWdpc3RlclBhZ2UudmVyaWZ5SWhnUmV3YXJkc0NsdWJCdXR0b24oKTsKLy8gICAgICAgIFJlZ2lzdGVyUGFnZSA9IFJlZ2lzdGVyUGFnZS52ZXJpZnlUZXJtc0FuZENvbmRpdGlvbnMoKTsKICAgIH0KCi8vICAgIEBUZXN0Ci8vICAgIHB1YmxpYyB2b2lkIHRlc3RIb21lTGFuZ3VhZ2VNZW51KCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vCi8vICAgICAgICBpaGdIb21lID0gUGFnZUZhY3RvcnkuaW5pdEVsZW1lbnRzKGRyaXZlciwgSWhnSG9tZS5jbGFzcyk7Ci8vICAgICAgICBkcml2ZXIuZ2V0KGJhc2VVcmwpOwovLy8vICAgICAgICBpaGdIb21lLmNsaWNrTGFuZ3VhZ2VNZW51KCk7Ci8vICAgICAgICBUaHJlYWQuc2xlZXAoMzAwMCk7Ci8vICAgICAgICBpaGdIb21lLmNsaWNrQ2Fycm91c2VsQnV0dG9uKCk7Ci8vICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdFNlYXJjaCgpIHsKICAgICAgICBTdHJpbmcgc2VhcmNoRGVzY3JpcHRpb25SZXN1bHQ7CiAgICAgICAgV2ViRHJpdmVyV2FpdCB3YWl0ID0gbmV3IFdlYkRyaXZlcldhaXQoZHJpdmVyLCA1MCk7CiAgICAgICAgaWhnSG9tZSA9IFBhZ2VGYWN0b3J5LmluaXRFbGVtZW50cyhkcml2ZXIsIEloZ0hvbWUuY2xhc3MpOwogICAgICAgIGRyaXZlci5nZXQoYmFzZVVybCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRyaXZlci5nZXRUaXRsZSgpKTsKICAgICAgICBpaGdIb21lLmVudGVyRGVzdGluYXRpb24oZHJpdmVyKS5zZW5kS2V5cygiTW9udGVycmV5Iik7CiAgICAgICAgd2FpdC51bnRpbChFeHBlY3RlZENvbmRpdGlvbnMuZWxlbWVudFRvQmVDbGlja2FibGUoQnkueHBhdGgoIi4vLypbQGlkPSdib29rJ10vZm9ybS9kaXZbM10vZGl2WzNdIikpKTsKICAgICAgICBob3RlbFNlYXJjaFJlc3VsdHMgPSBpaGdIb21lLmVudGVyU2VhcmNoKCk7CiAgICAgICAgd2FpdC51bnRpbChFeHBlY3RlZENvbmRpdGlvbnMudXJsQ29udGFpbnMoImh0dHBzOi8vd3d3LmloZy5jb20vaG90ZWxzL3VzL2VuL3Jlc2VydmF0aW9uL3NlYXJjaHJlc3VsdCIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJIb3RlbCBTZWFyY2ggUmVzdWx0cyIsIGRyaXZlci5nZXRUaXRsZSgpLCAiVGl0bGUgaXMgbm90IHRoZSBleHBlY3RlZCIpOwogICAgICAgIHNlYXJjaERlc2NyaXB0aW9uUmVzdWx0ID0gaG90ZWxTZWFyY2hSZXN1bHRzLmdldFNlYXJjaERlc2NyaXB0aW9uKGRyaXZlcikuZ2V0VGV4dCgpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKHNlYXJjaERlc2NyaXB0aW9uUmVzdWx0LmNvbnRhaW5zKCJNb250ZXJyZXksIE1leGljbyIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShob3RlbFNlYXJjaFJlc3VsdHMuZ2V0TnVtYmVyT2ZSZXN1bHRzKCkuc2l6ZSgpID49IDAsICJzaGl0Iik7CiAgICAgICAgaG90ZWxTZWFyY2hSZXN1bHRzLmdldFNlYXJjaFJlc3VsdHMoKTsKLy8gICAgICAgIGhvdGVsU2VhcmNoUmVzdWx0cy5nZXRTZWFyY2hSZXN1bHRzKGRyaXZlcik7CgogICAgfQp9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cGFja2FnZSBjb20uamF2aWVyLmF1dG9tYXRpb25GcmFtZXdvcms7CgppbXBvcnQgY29tLmphdmllci5icm93c2VyRmFjdG9yeS5Ccm93c2VyRmFjdG9yeTsKaW1wb3J0IGNvbS5qYXZpZXIucGFnZXMuSG90ZWxTZWFyY2hSZXN1bHRzOwppbXBvcnQgY29tLmphdmllci5wYWdlcy5JaGdIb21lOwppbXBvcnQgY29tLmphdmllci5wYWdlcy5Kb2luSWhnUmV3YXJkczsKaW1wb3J0IGNvbS5qYXZpZXIucGFnZXMuUmVnaXN0ZXJQYWdlOwppbXBvcnQgb3JnLm9wZW5xYS5zZWxlbml1bS5XZWJEcml2ZXI7CmltcG9ydCBvcmcudGVzdG5nLmFubm90YXRpb25zLkFmdGVyU3VpdGU7CmltcG9ydCBvcmcudGVzdG5nLmFubm90YXRpb25zLkJlZm9yZVN1aXRlOwoKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGphdmllci5yZXllcy52YWxkZXogb24gNS8zLzIwMTcuCiAqLwpwdWJsaWMgY2xhc3MgVGVzdEJhc2UgewoKICAgIHByb3RlY3RlZCBXZWJEcml2ZXIgZHJpdmVyOwogICAgcHJvdGVjdGVkICBTdHJpbmcgYmFzZVVybDsKICAgIHByb3RlY3RlZCBJaGdIb21lIGloZ0hvbWU7CiAgICBwcm90ZWN0ZWQgUmVnaXN0ZXJQYWdlIHJlZ2lzdGVyUGFnZTsKICAgIHByb3RlY3RlZCBIb3RlbFNlYXJjaFJlc3VsdHMgaG90ZWxTZWFyY2hSZXN1bHRzOwogICAgcHJvdGVjdGVkIEpvaW5JaGdSZXdhcmRzIGpvaW5JaGdSZXdhcmRzOwoKICAgIEBCZWZvcmVTdWl0ZQogICAgcHVibGljIHZvaWQgc2V0VXAoKSB7CiAgICAgICAgYmFzZVVybCA9ICJodHRwczovL3d3dy5paGcuY29tL2hvdGVscy91cy9lbi9yZXNlcnZhdGlvbiI7CiAgICAgICAgZHJpdmVyID0gQnJvd3NlckZhY3RvcnkuZ2V0QnJvd3NlcigiQ2hyb21lIik7Ci8vICAgICAgICBkcml2ZXIgPSBCcm93c2VyRmFjdG9yeS5nZXRCcm93c2VyKCJGaXJlZm94Iik7Ci8vICAgICAgICBkcml2ZXIgPSBuZXcgRmlyZWZveERyaXZlcigpOwogICAgICAgIGRyaXZlci5tYW5hZ2UoKS50aW1lb3V0cygpLmltcGxpY2l0bHlXYWl0KDMwLCBUaW1lVW5pdC5TRUNPTkRTKTsKICAgIH0KCiAgICBAQWZ0ZXJTdWl0ZQogICAgcHVibGljIHZvaWQgY2xlYW5TZXR1cCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGRyaXZlci5xdWl0KCk7CiAgICB9Cn0=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uamF2aWVyLmF1dG9tYXRpb25GcmFtZXdvcms7CgppbXBvcnQgY29tLmphdmllci5icm93c2VyRmFjdG9yeS5Ccm93c2VyRmFjdG9yeTsKaW1wb3J0IGNvbS5qYXZpZXIucGFnZXMuSG90ZWxTZWFyY2hSZXN1bHRzOwppbXBvcnQgY29tLmphdmllci5wYWdlcy5JaGdIb21lOwppbXBvcnQgY29tLmphdmllci5wYWdlcy5Kb2luSWhnUmV3YXJkczsKaW1wb3J0IGNvbS5qYXZpZXIucGFnZXMuUmVnaXN0ZXJQYWdlOwppbXBvcnQgb3JnLm9wZW5xYS5zZWxlbml1bS5XZWJEcml2ZXI7CmltcG9ydCBvcmcudGVzdG5nLmFubm90YXRpb25zLkFmdGVyU3VpdGU7CmltcG9ydCBvcmcudGVzdG5nLmFubm90YXRpb25zLkJlZm9yZVN1aXRlOwoKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
