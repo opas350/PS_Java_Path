@@ -8,11 +8,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/IhgHome.java" timestamp="1493967089772">
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="28" />
-        <mark key="^" line="56" column="28" />
-        <mark key="." line="56" column="28" />
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/IhgHome.java" timestamp="1493968183684">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/git/Selenium-Try1/Selenium_First/src/main/java/com/opas350/WebDriverCommands2.java" timestamp="1493709440897">
         <mark key="[" line="15" column="53" />
@@ -98,6 +98,12 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/JoinIhgRewards.java" timestamp="1493968151118">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
       </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/runnable/model/FirstRunnable.java" timestamp="1489647949626">
         <mark key="[" line="0" column="16" />
@@ -264,6 +270,12 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/git/IHG2/Selenium_exercise/src/main/java/com/javier/pages/RegisterPage.java" timestamp="1493968640974">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="54" />
+        <mark key="^" line="45" column="54" />
+        <mark key="." line="45" column="54" />
+      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/3_Classes/Demo1_CalcEngine_With_Clases_Methods/src/com/opas350/ps/CalcEngine/Main.java" timestamp="1480057864537">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="13" column="45" />
@@ -404,13 +416,6 @@
         <mark key="^" line="26" column="89" />
         <mark key="." line="26" column="89" />
       </file>
-      <file name="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestWebpage.java" timestamp="1493958367755">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="13" column="42" />
-      </file>
       <file name="$USER_HOME$/git/PS_Java_Path/Beginner/1_Java_Fundamentals/6_ClassInheritance/Demo1_CalcEngine_SpecializedClasses/src/com/opas350/ps/CalcEngine/Multiplier.java" timestamp="1480464288825">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="16" column="22" />
@@ -456,43 +461,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>verifyT</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>verifyT</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
       </register>
       <register name="0" type="4">
-        <text>Page Object corresponding to the Hotel Search Results page</text>
+        <text>Page Object corresponding to the Home Page</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgcHVibGljIFdlYkRyaXZlcgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgV2ViRWxlbWVudCBjbGlja0NhcnJvdXNlbEJ1dHRvbigpIHsKICAgICAgICBjYXJyb3VzZWxCdXR0b24uY2xpY2soKTsKICAgICAgICByZXR1cm4gY2Fycm91c2VsQnV0dG9uOwogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBARmluZEJ5KHhwYXRoID0gIi8vKltAaWQ9J3RpbGUtY2Fycm91c2VsJ10vdWwvYnV0dG9uWzJdIikKICAgIFdlYkVsZW1lbnQgY2Fycm91c2VsQnV0dG9uOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdHMgPSBkcml2ZXIuZmluZEVsZW1lbnRzKEJ5LmNsYXNzTmFtZSgicmVzUm93IikpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8V2ViRWxlbWVudD4gcmVzdWx0cyA9IGRyaXZlci5maW5kRWxlbWVudHMoQnkueHBhdGgoIi4vLypbQGlkPSdsaXN0VGFiJ10iKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdHMgPSBkcml2ZXIuZmluZEVsZW1lbnRzKEJ5LmNsYXNzTmFtZSgicmVzUm93IikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIucXVpdCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
