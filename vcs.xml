@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/opas350/Selenium_exercise.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/opas350/Final-Project-Java-Academy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier\git\IHG2" />
+    <option name="cloneParentDir" value="C:\Users\Javier\git\AcccenJava" />
   </component>
 </application>

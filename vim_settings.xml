@@ -237,6 +237,12 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/git/AcccenJava/Final-Project-Java-Academy/ProjectFiles/Final/Final-Accenture-Project/pom.xml" timestamp="1495341455693">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/git/PS_JP_Multi-Threading/PS_JP_Multi-threadingtoCommonJavaPatterns/com.opas350/runnable/RaceCondition.java" timestamp="1489874080465">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="18" />
@@ -369,6 +375,12 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/git/AcccenJava/Final-Project-Java-Academy/ProjectFiles/Final/Final-Accenture-Project/src/main/java/com/opas350/controller/UserController.java" timestamp="1495341299243">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+      </file>
       <file name="$USER_HOME$/git/IHG/Selenium_exercise/pom.xml" timestamp="1493955409920">
         <mark key="[" line="47" column="59" />
       </file>
@@ -475,11 +487,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/IHG/Selenium_exercise/src/test/java/com/javier/automationFramework/TestWebpage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>NewTrackingService</text>
